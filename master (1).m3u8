@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="en_7",LANGUAGE="eng",DEFAULT=YES,URI="media_7.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="en_7",LANGUAGE="eng",DEFAULT=YES,URI="https://livecmaftest1.akamaized.net/cmaf/live/2099281/abr6s/media_7.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=6165904,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="group_A1"
 https://livecmaftest1.akamaized.net/cmaf/live/2099281/abr6s/media_0.m3u8
 
